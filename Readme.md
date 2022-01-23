@@ -1,0 +1,1 @@
+Esse foi um projeto para aperfeiçoar o meu html e css onde eu tentei fazer a cópia da Netflix.
